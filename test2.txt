@@ -1,4 +1,0 @@
-this is test2 file
-This is another line in test2 file
-This is another line in test2 file
-
