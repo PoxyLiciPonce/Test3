@@ -4,3 +4,4 @@ I love ice cream
 I love sleep
 another line added
 wanna wannaThis line added on the master
+a second line added to test3.txt on the master
