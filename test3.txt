@@ -8,3 +8,4 @@ a second line added to test3.txt on the master
 add this line to test3.txt on afix branch
 add this line to test3.txt on branch aafix
 added second line to test3.txt on aafix branch
+added this line to test3 on aafix branch after merge to master
