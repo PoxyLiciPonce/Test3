@@ -3,6 +3,7 @@ I love pussy
 I love ice cream
 I love sleep
 another line added
+<<<<<<< HEAD
 wanna wannaThis line added on the master
 a second line added to test3.txt on the master
 add this line to test3.txt on afix branch
@@ -17,3 +18,8 @@ added this line to test3 on master branch after aafix merge
 =======
 added this line to test3 on aafix branch after merge to master
 >>>>>>> aafix
+=======
+wanna wannaAdded another line
+Second line added to test3 on testing branch
+added this line to test3 on testing branch after afix and aafix merge
+>>>>>>> testing
