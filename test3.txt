@@ -12,3 +12,4 @@ line added to test3.txt on master branch
 add this line to test3.txt on branch aafix
 added second line to test3.txt on aafix branch
 >>>>>>> aafix
+added this line to test3 on master branch after aafix merge
