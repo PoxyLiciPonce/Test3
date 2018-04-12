@@ -6,4 +6,9 @@ another line added
 wanna wannaThis line added on the master
 a second line added to test3.txt on the master
 add this line to test3.txt on afix branch
+<<<<<<< HEAD
 line added to test3.txt on master branch
+=======
+add this line to test3.txt on branch aafix
+added second line to test3.txt on aafix branch
+>>>>>>> aafix
